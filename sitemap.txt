@@ -1,0 +1,18 @@
+
+About us page:
+file:///Z:/Desktop/project%202/about.html
+
+Frequently Asked Questions page:
+file:///Z:/Desktop/project%202/Faqs.html
+
+Home page:
+file:///Z:/Desktop/project%202/index.html
+
+Partnership page:
+file:///Z:/Desktop/New%20folder%20(3)/partnership.html
+
+Gallery page:
+file:///Z:/Desktop/New%20folder%20(3)/gallery.html
+
+Contact Us page:
+file:///Z:/Desktop/New%20folder%20(3)/contact.html
